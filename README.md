@@ -17,7 +17,7 @@ My resume: [CV_LeThePhuongMinh](https://docs.google.com/document/d/1qL7XR2Ji86rK
 ### NOTABLE PROJECTS
 Check out pinned projects ;)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evergard3n&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evergard3n&size_weight=0&count_weight=1&hide=python&layout=compact)
 
 ![evergard3n's GitHub stats](https://github-readme-stats.vercel.app/api?username=evergard3n&show_icons=true&theme=transparent&hide_rank=true)
 <!--
