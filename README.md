@@ -5,7 +5,7 @@ Welcome to my personal Github, I'm **Le The Phuong Minh**, but feel free to call
 
 🌱 I'm on my way to become a **Software Engineer!** Now, I mainly focus on building projects with **Next.js, FastAPI and Fastify.** Check out my public projects, and feel free to reach out and leave some comments. 
 
-My resume: [CV_LeThePhuongMinh](https://docs.google.com/document/d/1qL7XR2Ji86rKIN8V508pW-BmIIeScKtdocUpDOF6zZE)
+My resume: [CV_MinhLTP](https://drive.google.com/file/d/1RzIFBo6cEoYAZZN75MQsvsNNaJG-4nyp/view?usp=sharing)
 
 ### SKILLS & ABILITIES
 
