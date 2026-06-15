@@ -17,7 +17,7 @@ My resume: [CV_MinhLTP](https://drive.google.com/file/d/1RzIFBo6cEoYAZZN75MQsvsN
 ### NOTABLE PROJECTS
 Check out pinned projects ;)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evergard3n&size_weight=0.5&count_weight=0.5&hide=python&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evergard3n&size_weight=0.5&count_weight=0.5&exclude_repo=notebooks&hide=python,css,c++&layout=compact)
 
 ![evergard3n's GitHub stats](https://github-readme-stats.vercel.app/api?username=evergard3n&show_icons=true&theme=transparent&hide_rank=true)
 <!--
